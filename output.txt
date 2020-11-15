@@ -1,0 +1,27 @@
+labeled:  400
+symbol:  D
+7.75 %
+symbol:  X
+5.75 %
+symbol:  /
+8.75 %
+symbol:  *
+10.25 %
+symbol:  1
+10.0 %
+symbol:  A
+8.75 %
+symbol:  P
+9.25 %
+symbol:  8
+8.25 %
+symbol:  -
+7.75 %
+symbol:  B
+9.5 %
+symbol:  W
+6.5 %
+symbol:  0
+7.5 %
+{'D': 31, 'X': 23, '/': 35, '*': 41, '1': 40, 'A': 35, 'P': 37, '8': 33, '-': 31, 'B': 38, 'W': 26, '0': 30}
+all:  400
